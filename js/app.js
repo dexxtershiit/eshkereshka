@@ -21,7 +21,7 @@ const PLACES = [
     short_desc: 'Самая маленькая железнодорожная станция Брестской области, включённая в список историко-культурных ценностей Беларуси.',
     region: 'Брестская',
     district: 'Брестский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Nesvizh_Castle_in_Belarus.jpg',
+    image_url: 'images/dubitsa.jpg',
     lat: 51.983, lng: 23.683,
     era: 'конец XIX века'
   },
@@ -51,7 +51,7 @@ const PLACES = [
     short_desc: 'Дом, в котором жил и был похоронен великий полководец Александр Суворов, сейчас здесь военно-исторический музей.',
     region: 'Брестская',
     district: 'Кобринский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Suvorov_Museum_%28Kobrin%29-5.JPG',
+    image_url: 'images/suvorov-kobrin',
     lat: 52.2098, lng: 24.3557,
     era: 'XVIII век'
   },
@@ -61,7 +61,7 @@ const PLACES = [
     short_desc: 'Жемчужина полесского деревянного зодчества с алтарями и иконами XVIII–XIX веков.',
     region: 'Брестская',
     district: 'Лунинецкий',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Mir_Castle.jpg',
+    image_url: 'images/kozhan-gorodok.jpg',
     lat: 52.22, lng: 27.05,
     era: 'XVIII век'
   },
@@ -71,7 +71,7 @@ const PLACES = [
     short_desc: 'Бывшая резиденция рода Радзивиллов с уникальным парком и древним архивом, объект Всемирного наследия ЮНЕСКО.',
     region: 'Минская',
     district: 'Борисовский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Nesvizh_Castle_in_Belarus.jpg',
+    image_url: 'images/nesvizh.jpg',
     lat: 53.2229, lng: 26.6917,
     era: 'XVI-XVII вв.'
   },
@@ -81,7 +81,7 @@ const PLACES = [
     short_desc: 'Один из наиболее известных памятников оборонного зодчества Беларуси XVI века, объект Всемирного наследия ЮНЕСКО.',
     region: 'Гродненская',
     district: 'Гродненский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Mir_Castle.jpg',
+    image_url: 'images/mir.jpg',
     lat: 53.4513, lng: 26.4729,
     era: 'XVI век'
   },
@@ -91,7 +91,7 @@ const PLACES = [
     short_desc: 'Памятник сожжённой деревне и символ трагедии Великой Отечественной войны.',
     region: 'Минская',
     district: 'Борисовский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Khatyn_Memorial_in_Belarus-2232.jpg',
+    image_url: 'images/khatyn.jpg',
     lat: 54.3345, lng: 27.9446,
     era: 'XX век'
   },
@@ -111,7 +111,7 @@ const PLACES = [
     short_desc: 'Крупнейший монастырский комплекс Беларуси в стиле барокко, бывший центр образования и культуры.',
     region: 'Витебская',
     district: 'Оршанский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/2024.07.17_LIDA_CASTLE_Lidski_zamak.jpg',
+    image_url: 'images/orsha-jesuit.jpg',
     lat: 54.509, lng: 30.425,
     era: 'XVII век'
   },
@@ -171,7 +171,7 @@ const PLACES = [
     short_desc: 'Главный православный храм города, памятник архитектуры XIX века с богатой историей.',
     region: 'Гомельская',
     district: 'Жлобинский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Nesvizh_Castle_in_Belarus.jpg',
+    image_url: 'images/zhlobin-troitskiy.jpg',
     lat: 52.892, lng: 30.038,
     era: 'XIX век'
   },
@@ -181,7 +181,7 @@ const PLACES = [
     short_desc: 'Памятник сожжённым белорусским деревням, расположенный на месте трагедии 1944 года.',
     region: 'Гомельская',
     district: 'Светлогорский',
-    image_url: 'https://upload.wikimedia.org/wikipedia/commons/6/68/Khatyn_Memorial_in_Belarus-2232.jpg',
+    image_url: 'images/ola.jpg',
     lat: 52.7377, lng: 29.6651,
     era: 'XX век'
   },
